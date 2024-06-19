@@ -1,0 +1,156 @@
+@media screen and (min-width: 1550px) {
+    
+    #Nav_2nd {
+        display: none;
+    }
+}
+@media screen and (max-width: 1550px) {
+    #Nav_3 {
+        display: none;
+    } 
+    .Nav_2nd_2 {
+        display: inline-block;
+    }
+}
+
+
+@media screen and (max-width: 1430px) {
+    #Nav_4 {
+        display: none;
+    } 
+    .Nav_2nd_3 {
+        display: inline-block;
+    }
+}
+
+
+
+@media screen and (max-width: 1320px) {
+    #Nav_5 {
+        display: none;
+    } 
+    .Nav_2nd_4 {
+        display: inline-block;
+    }
+}
+
+
+@media screen and (max-width: 1160px) {
+    #Nav_6 {
+        display: none;
+    } 
+    
+    .Nav_2nd_5 {
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    #Nav {
+        width: 95vw;
+        justify-content: space-between;
+    }
+    
+    #Nav_7 {
+        /* position: absolute;
+        right: 0px;
+        width: 26px; */
+        margin-left: 15px;
+    }
+    /* #Cart_Word {
+        display: none;
+    } */
+}
+@media screen and (max-width: 990px) {
+    .Nav_2nd_6 {
+        display: inline-block;
+    }
+    #Nav_1_1 {
+        width: 47px;
+    }
+
+    #Nav {
+        width: 98vw;
+        justify-content: center;
+    }
+    #Nav_1_A {
+        display: none;
+    }
+
+    #Nav_7 {
+        display: none;
+    }
+    #Nav_2 {
+        width: 798px;
+    }
+    #Nav_2_Form {
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 955px) {
+    .Nav_2nd_8 {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 860px) {
+    #Nav_1_1 {
+        display: none;
+    }
+    
+    #Nav_2 {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    .Nav_2nd_7 {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    #Nav_2nd {
+        display: none;
+    }
+    #Nav_2 {
+        width: 95%;
+    }
+    #Head_Top {
+        display: flex;
+    }
+    #Header {
+        border-bottom: 1px solid #aaa;
+        box-shadow: none;
+        height: 54px;
+    }
+    #Nav {
+        margin-top: 0px;
+        margin-bottom: 7px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 432px) {
+    
+    #TOP____ {
+        display: inline-block;
+    }
+    #Top_Nav_1 {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
